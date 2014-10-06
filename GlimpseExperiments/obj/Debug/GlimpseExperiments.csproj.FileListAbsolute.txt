@@ -85,3 +85,8 @@ D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\zh-Hant\System.Spatial.re
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.csprojResolveAssemblyReference.cache
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.dll
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.pdb
+D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.Ado.dll
+D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.AspNet.dll
+D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.Core.dll
+D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.EF5.dll
+D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.Mvc4.dll
