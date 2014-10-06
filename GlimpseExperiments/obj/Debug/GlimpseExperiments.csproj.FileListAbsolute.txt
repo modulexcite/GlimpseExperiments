@@ -82,7 +82,6 @@ D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\ko\System.Spatial.resourc
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\ru\System.Spatial.resources.dll
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\zh-Hans\System.Spatial.resources.dll
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\zh-Hant\System.Spatial.resources.dll
-D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.csprojResolveAssemblyReference.cache
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.dll
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\obj\Debug\GlimpseExperiments.pdb
 D:\git\steve\GlimpseExperiments\GlimpseExperiments\bin\Glimpse.Ado.dll
